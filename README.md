@@ -5,7 +5,7 @@ The traditional approaches for implementing event-based  Demand  Response  (DR) 
 related publications
 
 Gururaghav Raman, Jimmy Chih-Hsien Peng, Bo Zhao, Matthias Weidlich: 
-Dynamic Decision Making for Demand Response through Adaptive Event Stream Monitoring (to appear) 
+Dynamic Decision Making for Demand Response through Adaptive Event Stream Monitoring
 In Proc. of 2019 IEEE Power & Energy Society General Meeting (PESGM), Atlanta, GA, USA. IEEE, August 2019.
 
 https://amor.cms.hu-berlin.de/~zhaobo/PES-GM19.pdf
